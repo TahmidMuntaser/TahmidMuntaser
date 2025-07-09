@@ -8,9 +8,15 @@
 <a href="https://linkedin.com/in/in/tahmid-muntaser-518929230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/tahmid-muntaser-518929230" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidmuntaser&show_icons=true&locale=en&layout=compact" alt="tahmidmuntaser" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidmuntaser&show_icons=true&locale=en" alt="tahmidmuntaser" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidmuntaser&" alt="tahmidmuntaser" /></p>
 
+<h3 align="left">📈 Contribution Graph:</h3>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=tahmidmuntaser&bg_color=ffffff&color=0e75b6&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" /></p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p><img src="https://github-profile-trophy.vercel.app/?username=tahmidmuntaser&margin-w=5&no-bg=true" alt="GitHub Trophies" /></p>
