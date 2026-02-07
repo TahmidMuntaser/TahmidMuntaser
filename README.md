@@ -6,6 +6,8 @@
 
 ---
 
+## 🚀 Tech Stack & Tools
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12"/>
@@ -42,6 +44,8 @@
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/tahmid-muntaser-518929230" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
@@ -56,15 +60,25 @@
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TahmidMuntaser&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahmidMuntaser&layout=compact&langs_count=5&theme=dracula" height="150"/>
 </div>
 
+---
+
+## 🔥 Contribution Streak & Achievements
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TahmidMuntaser&theme=tokyonight" height="150"/>
   <img src="https://github-profile-trophy.vercel.app?username=TahmidMuntaser&theme=dracula&row=1&column=6&no-bg=true" height="150"/>
 </div>
+
+---
+
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidMuntaser&theme=react&area=true" height="300"/>
