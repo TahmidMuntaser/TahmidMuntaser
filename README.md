@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Tahmid Muntaser</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00bfff,100:ff00ff&text=Hi&desc=I'm%20Tahmid%20Muntaser&fontColor=ffffff&descColor=ff00ff&descAlign=50&fontAlign=50&fontAlignY=45&fontSize=60&descFontSize=36" width="100%" alt="header"/>
+</p>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TahmidMuntaser.TahmidMuntaser" />
